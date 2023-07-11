@@ -1,0 +1,100 @@
+Osmund Cartuxo Mantega,Professor e.m.,Queluz
+Felicia Cartuxo Moncoes Lasmia,Motorista,Barrinha
+Tilenio Ambulo Soterno Lasmia,Gerente adm,BarbosaBariri
+Artmio Virino Casas,Faxineiro,Urupes
+Catulo Cartuxo Oscaran Melkioz,Contador,Lavrinhas
+Senizio Olambro Topovi Melkioz,Faxineiro,Aluminio
+Felicia Cartuxo Melkioz,Mecanico,Altinopolis
+Catulo Romulo Topovi Casas,Contador,Narandiba
+Senizio Romulo Moncoes Casas,Enfermeiro,Aluminio
+Osmund Romulo Sereno Lasmia,Eletricista,Lavrinhas
+Tilenio Ambulo Lasmia,Professor e.m.,Tabatinga
+Artmio Cartuxo Lorentao,Motorista,Barra Bonita
+Artmio Olambro Lasmia,Medico,Narandiba
+Artmio Cartuxo Topovi Melkioz,Enfermeiro,Narandiba
+Senizio Atomon Talento Motivio,Motorista,Rancharia
+Artmio Romulo Melkioz,Faxineiro,Queiroz
+Osmund Ambulo Sereno Lasmia,Gerente adm,Quintana
+Tilenio Virino Talento Mantega,Faxineiro,Barretos
+Catulo Atomon Soterno Casas,Farmaceutico,Barretos
+Felicia Atomon Talento Casas,Gerente com,Queluz
+Senizio Romulo Topovi Motivio,Medico,Quintana
+Artmio Cartuxo Oscaran Motivio,Soldador,Quintana
+Osmund Olambro Topovi Motivio,Soldador,Lavinia
+Felicia Olambro Oscaran Motivio,Pedreiro,Quintana
+Artmio Cartuxo Moncoes Casas,Operador,Barrinha
+Osmund Romulo Sereno Melkioz,Contador,Ouroeste
+Catulo Olambro Oscaran Mantega,Analista sistemas,Urupes
+Osmund Virino Talento,Mecanico,Candido Rodrigues
+Osmund Atomon Oscaran Lasmia,Faxineiro,Candido Rodrigues
+Tilenio Cartuxo Talento Motivio,Mecanico,Aluminio
+Felicia Ambulo Oscaran Mantega,Analista Suporte,Tabatinga
+Catulo Cartuxo Talento,Mecanico,Tabapua
+Senizio Atomon Topovi Melkioz,Soldador,Sumare
+Catulo Olambro Oscaran Motivio,Analista sistemas,Quintana
+Artmio Virino Soterno Mantega,Motorista,Valentim Gentil
+Felicia Virino Soterno Lasmia,Enfermeiro,Fartura
+Tilenio Romulo Motivio,Farmaceutico,Barra Bonita
+Catulo Ambulo Oscaran Melkioz,Pedreiro,Queiroz
+Artmio Virino Lorentao,Operador,Barrinha
+Tilenio Romulo Casas,Faxineiro,Fernandopolis
+Catulo Romulo Soterno,Programador,Sumare
+Osmund Cartuxo Melkioz,Medico,Nantes
+Tilenio Virino Oscaran Lorentao,Faxineiro,Altinopolis
+Catulo Virino Topovi Casas,Analista sistemas,Tabapua
+Catulo Olambro Soterno Mantega,Programador,Alambari
+Osmund Atomon Soterno Lorentao,Enfermeiro,Agudos
+Catulo Cartuxo Soterno Casas,Farmaceutico,Lavinia
+Artmio Ambulo Soterno,Programador,Agudos
+Osmund Olambro Topovi Mantega,Gerente com,Aluminio
+Tilenio Romulo Mantega,Professor e.m.,Lavrinhas
+Senizio Ambulo Soterno Casas,Medico,Urupes
+Catulo Olambro Sereno Casas,Faxineiro,Altinopolis
+Senizio Atomon Sereno Lasmia,Eletricista,Barrinha
+Senizio Virino Mantega,Contador,Lavinia
+Tilenio Romulo Talento,Operador,Nhandeara
+Osmund Olambro Moncoes Melkioz,Motorista,BarbosaBariri
+Artmio Ambulo Oscaran Lorentao,Analista sistemas,Hortolandia
+Catulo Ambulo Soterno Lasmia,Analista rh,Queiroz
+Osmund Cartuxo Oscaran,Professor e.m.,Lavrinhas
+Catulo Romulo Sereno Casas,Contador,Nipoa
+Osmund Romulo Topovi Lasmia,Mestre de Obras,Nipoa
+Osmund Romulo Topovi Lorentao,Eletricista,Dracena
+Osmund Cartuxo Sereno Mantega,Mecanico,Lavrinhas
+Felicia Olambro Oscaran Motivio,Professor e.m.,Alambari
+Tilenio Virino Soterno Melkioz,Motorista,Dracena
+Catulo Olambro Sereno Casas,Gerente com,Narandiba
+Artmio Romulo Topovi Lasmia,Soldador,Sumare
+Felicia Virino Talento Lorentao,Analista rh,Ouroeste
+Artmio Romulo Soterno Melkioz,Professor e.s.,Hortolandia
+Artmio Romulo Oscaran Melkioz,Motorista,Dracena
+Artmio Romulo Casas,Faxineiro,Ouroeste
+Catulo Ambulo Moncoes Casas,Analista sistemas,Valentim Gentil
+Artmio Romulo,Professor e.s.,Rancharia
+Tilenio Romulo Casas,Analista Suporte,Lavrinhas
+Senizio Ambulo Oscaran Motivio,Contador,Queiroz
+Tilenio Cartuxo Moncoes,Pedreiro,Nantes
+Felicia Ambulo Talento Melkioz,Analista Suporte,Nantes
+Felicia Olambro Soterno Mantega,Gerente adm,Nantes
+Tilenio Cartuxo Topovi Casas,Analista Suporte,Aluminio
+Senizio Atomon Moncoes,Eletricista,Candido Rodrigues
+Felicia Ambulo Talento Casas,Mecanico,Barra Bonita
+Felicia Atomon Soterno Melkioz,Pedreiro,Nantes
+Senizio Atomon Sereno Lasmia,Motorista,Fartura
+Felicia Cartuxo Topovi Motivio,Professor e.s.,Rancharia
+Osmund Romulo Sereno,Mestre de Obras,Fartura
+Catulo Atomon Sereno Melkioz,Farmaceutico,Barretos
+Tilenio Olambro Oscaran Casas,Gerente adm,Urupes
+Senizio Cartuxo Sereno Melkioz,Analista rh,BarbosaBariri
+Tilenio Virino Topovi,Gerente com,Queiroz
+Catulo Atomon Topovi Lasmia,Soldador,Barrinha
+Felicia Cartuxo Sereno Motivio,Soldador,Nantes
+Tilenio Virino Soterno Melkioz,Contador,Quintana
+Artmio Romulo Oscaran Casas,Faxineiro,Fernandopolis
+Tilenio Virino Moncoes Mantega,Medico,Tabapua
+Tilenio Virino Topovi Mantega,Programador,Altinopolis
+Tilenio Romulo Soterno Melkioz,Professor e.m.,BarbosaBariri
+Felicia Cartuxo Oscaran Lasmia,Faxineiro,Sumare
+Artmio Virino Talento Lasmia,Mestre de Obras,Fartura
+Osmund Olambro Oscaran Casas,Gerente adm,Hortolandia
+Osmund Atomon Soterno,Analista sistemas,Candido Rodrigues
