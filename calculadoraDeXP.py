@@ -1,6 +1,6 @@
-a = 'Adran Kairon Roguephile Hiroshi Aurora Fenrir'
+#a = 'Adran Kairon Roguephile Hiroshi Aurora Fenrir'
 def main():
-    personagens = a.split(' ')#list(input('Quais personagens? (Separados por espaço): ').split(' '))
+    personagens = list(input('Quais personagens? (Separados por espaço): ').split(' '))#a.split(' ')
     global pers
     pers = {}
     for i in personagens:
@@ -54,6 +54,7 @@ def processaInimigo(pers, historico={}):
         hist = historico
         mostraXP(pers, historico)
         if res=='n':
+            input('Para encerrar o programa digite enter ')
             return None
     processaInimigo(pers, historico)
 
