@@ -1,5 +1,6 @@
 # python_codes
 Some codes of python you may find interesting. Most of them were developed during my college classes.
+
 Alguns códigos de python que você pode achar interessante. A maioria deles foram desenvolvidos durante minhas aulas na faculdade.
 
 ## 1. 🔎 Busca.py e registros.txt
