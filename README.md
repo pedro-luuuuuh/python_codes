@@ -23,3 +23,11 @@ Alguns códigos de python que você pode achar interessante. A maioria deles for
   Abates dão XP completo ao personagem e assistências metade disso. Ao final, uma tabela com o nome do jogador, número de assistências, abates e XP ganho é exibido, bem como uma mensagem dizendo o quanto de XP o personagem ganhou.
 
 Caso achem úteis os códigos, favoritem, sugiram modificações e compartilhem com quem acharem útil :D
+
+## 4. 🤖 Calculadora de fórmula pós fixa
+  Dada uma expressão numérica comum, forma sua função na forma [pós fixa](https://pt.wikipedia.org/wiki/Nota%C3%A7%C3%A3o_polonesa_inversa) e calcula seu valor
+  Existem algumas falhas nesse código então, sinta-se livre para consertá-las e dar feedback
+
+## 5. 🔢 Sudoku
+  Dado um arquivo de sudoku nesse [formatação](sudoku0.txt), printa todas as soluções possíveis para esse. O código usa backtracking para chegar à solução.
+  
