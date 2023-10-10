@@ -201,7 +201,7 @@ def main():
     arquivo = input('Entre com o nome do arquivo: ')
     if arquivo == 'fim':
         return None
-    mat = LeiaMatrizLocal('sudoku0.txt')
+    mat = LeiaMatrizLocal(arquivo)
     print('* * * Matriz Inicial * * *')
     ImprimaMatriz(mat)
 
